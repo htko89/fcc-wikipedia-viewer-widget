@@ -20,7 +20,7 @@ course: "09 - Intermediate Front End Development Projects"
 project: "03 - Build a Wikipedia Viewer"
 ---
 # Student Project - Free Code Camp
-Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/wGqEga/.
+Build an app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/wGqEga/
 
 ## Project Criteria:
 * Fulfill the below user stories. Use whichever libraries or APIs you need. Give it your own personal style.
