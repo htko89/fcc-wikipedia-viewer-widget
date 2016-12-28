@@ -2,7 +2,7 @@
 type: "folio"
 draft: false
 date: "2016-08-05"
-title: "Wikipedia Viewer App"
+title: "Wikipedia Viewer Widget"
 parent: "fcc"
 topics:
   - "code"
