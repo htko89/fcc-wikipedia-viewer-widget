@@ -15,7 +15,6 @@ program: 01 - Front End Development Certification
 course: 09 - Intermediate Front End Development Projects
 project: 03 - Build a Wikipedia Viewer
 photos:
-  - cover.jpg
   - screenshot-ipadpro.jpg
   - mockup-tablet.jpg
   - mockup-mobile.jpg
